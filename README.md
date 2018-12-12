@@ -1,6 +1,8 @@
 VIP180 All-in-One Deployment Tools
 ====
 
+This application is used to deploy a standard BIP180 token smart contract.
+
 # Install
 
 	npm install
