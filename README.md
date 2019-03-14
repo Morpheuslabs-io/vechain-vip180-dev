@@ -1,4 +1,4 @@
-VIP180 All-in-One Deployment Tool - Command line version
+VIP180 All-in-One Deployment Tool - command line version
 ====
 
 This is a command line based and one-click type of application that is used to generate and deploy a standard BIP180 token smart contract. VeChain Comet wallet is required to run this application.
