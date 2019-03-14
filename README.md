@@ -14,27 +14,7 @@ Option 1 - Run the application in your local environment. In this case, all the 
 
 Option 2 - Run the application on ML BPaaS - In this case, all the required software are pre-installed. You can quickly explore and test the application using VeChain Solo node on the platform with all ready-to-use tools and network nodes, or test on VeChain testnet before you run the application to deploy the token smart contracts to the VeChain mainnet. This option is recommended, if users want to focus on the application or even want to customize the application without bothering too much on the environment setup.
 
-The following are the general steps to run the application.
-
-# Install
-
-	npm install
-
-# Usage
-
-	npm run deploy
-
-
-+ endpoint: The HTTP provider for VeChainThor network
-+ master private key: The signer to deploy the contract
-+ initialHolder: The initial VIP180 token holders
-+ name: The name of token
-+ symbol: The symbol of token
-+ decimals: The number of decimals the token uses 
-
-And the specific steps to run the application on the ML BPaaS are:
-
-## Steps to launch the utility
+## Steps to launch the utility on ML BPaaS
 
 Step 1 - Download the VIP180 token generator web version from Application Library
 
@@ -45,6 +25,27 @@ Step 3 - Start the newly created workspace
 Step 4 - Open the workspace to launch the CDE
 
 Step 5 - Open a terminal and cd to the application directory to run the commands
+
+Step 6 - Install program dependencies
+
+```
+npm install
+```
+
+Step 7 - Start the application
+
+```
+npm run dev
+```
+
+The list of the paraneters to be provided when running the application from the command line:
+
++ endpoint: The HTTP provider for VeChainThor network
++ master private key: The signer to deploy the contract
++ initialHolder: The initial VIP180 token holders
++ name: The name of token
++ symbol: The symbol of token
++ decimals: The number of decimals the token uses 
 
 The following is a screenshot of running the application from command line.
 
