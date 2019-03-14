@@ -1,4 +1,4 @@
-VIP180 All-in-One Deployment Tools
+VIP180 All-in-One Deployment Tool - Command line version
 ====
 
 This is a command line based application that is used to generate and deploy a standard BIP180 token smart contract.
