@@ -32,6 +32,8 @@ The following are the general steps to run the application.
 
 And the specific steps to run the application on the ML BPaaS are:
 
+The following is a screenshot of running the application from command line.
+
 # Screenshot
 
 ![deploy](images/deploy.jpg)
