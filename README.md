@@ -34,6 +34,18 @@ The following are the general steps to run the application.
 
 And the specific steps to run the application on the ML BPaaS are:
 
+## Steps to launch the utility
+
+Step 1 - Download the VIP180 token generator web version from Application Library
+
+Step 2 - Deploy the application from my repository to create a new workspace in CDE
+
+Step 3 - Start the newly created workspace
+
+Step 4 - Open the workspace to launch the CDE
+
+Step 5 - Open a terminal and cd to the application directory to run the commands
+
 The following is a screenshot of running the application from command line.
 
 # Screenshot
