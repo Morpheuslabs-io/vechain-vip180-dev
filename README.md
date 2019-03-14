@@ -3,10 +3,12 @@ VIP180 All-in-One Deployment Tool - developer version
 
 This is a command line based and one-click type of application that is used to generate and deploy a standard BIP180 token smart contract. This is mainly used by developers for development and testing purpose.
 
+Granted by VeChain, Morpheus Labs has published this utility as an application in Application Library of Morpheus Labs BPaaS (ML BPaaS).
+
 There are options to run this tool at the moment.
 
 1. Run the application in your local environment
-2. Run the application on Morpheus Labs BPaaS (ML BPaaS)
+2. Run the application on ML BPaaS
 
 Option 1 - Run the application in your local environment. In this case, all the required software need to be installed first, such as source code editor (e.g. VSCode), node.js, npm, truffle. This option may be useful, if the user just want to run the appliation to deploy the token smart contracts and not interested in knowing the details of the application, and provided the user is willing to setup a local environment to run the application.
 
