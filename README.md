@@ -19,7 +19,7 @@ Option 2 - Run the application on ML BPaaS - In this case, all the required soft
 
 ## Steps to launch the utility on ML BPaaS
 
-Step 1 - Download the VIP180 token generator web version from Application Library
+Step 1 - Download the VIP180 token generator developer version from Application Library
 
 Step 2 - Deploy the application from my repository to create a new workspace in CDE
 
